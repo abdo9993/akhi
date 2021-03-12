@@ -1,0 +1,1 @@
+chrome-extension://mklegakkpnfljgfpfofeedfbichpphjd/lib/dom-to-image.min.js

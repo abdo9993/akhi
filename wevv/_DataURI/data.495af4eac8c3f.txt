@@ -1,0 +1,1 @@
+chrome-extension://giihipjfimkajhlcilipnjeohabimjhi/js/cs-meta.js
